@@ -13,7 +13,7 @@ from tw2.jqplugins.cookies import defaults
 ### Links, etc...
 class jQueryCookiesMixin(jQueryPluginLinkMixin):
     dirname = defaults._cookies_dirname_
-    basename='cookies'
+    basename='jquery.cookies'
     modname = 'tw2.jqplugins.cookies'
 
 class jQueryCookiesJSLink(twc.JSLink, jQueryCookiesMixin):

@@ -1,0 +1,2 @@
+recursive-include tw2/jqplugins/cookies/static *
+include README.rst

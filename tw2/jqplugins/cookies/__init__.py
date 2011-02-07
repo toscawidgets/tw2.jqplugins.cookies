@@ -2,5 +2,3 @@
 
 Get the source from http://github.com/ralphbean/tw2.jqplugins.cookies
 """
-
-from base import *

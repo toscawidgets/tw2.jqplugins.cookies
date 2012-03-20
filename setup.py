@@ -13,7 +13,7 @@ _extra_mako = ["Mako >= 0.1.1"]
 
 setup(
     name='tw2.jqplugins.cookies',
-    version='2.0b9',
+    version='2.0.0',
     description='toscawidgets2 wrapper for jquery cookie utilities.',
     long_description=long_description,
     author='Ralph Bean',

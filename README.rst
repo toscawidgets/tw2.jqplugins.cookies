@@ -1,7 +1,7 @@
 tw2.jqplugins.cookies
-======================
+=====================
 
-:Author: Ralph Bean <ralph.bean@gmail.com>
+:Author: Ralph Bean <rbean@redhat.com>
 
 .. comment: split here
 
@@ -17,7 +17,7 @@ Links
 Original wrapped project is available `here
 <http://plugins.jquery.com/project/Cookie>`_
 
-Get the `source from github <http://github.com/ralphbean/tw2.jqplugins.cookies>`_.
+Get the `source from github <http://github.com/toscawidgets/tw2.jqplugins.cookies>`_.
 
 `PyPI page <http://pypi.python.org/pypi/tw2.jqplugins.cookies>`_
-and `bugs <http://github.com/ralphbean/tw2.jqplugins.cookies/issues/>`_
+and `bugs <http://github.com/toscawidgets/tw2.jqplugins.cookies/issues/>`_

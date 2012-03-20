@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
 
+import multiprocessing, logging
+
 f = open('README.rst')
 long_description = f.read().strip()
 long_description = long_description.split('split here', 1)[1]
@@ -11,13 +13,13 @@ _extra_mako = ["Mako >= 0.1.1"]
 
 setup(
     name='tw2.jqplugins.cookies',
-    version='2.0b9',
+    version='2.0.0',
     description='toscawidgets2 wrapper for jquery cookie utilities.',
     long_description=long_description,
     author='Ralph Bean',
-    author_email='ralph.bean@gmail.com',
+    author_email='rbean@redhat.com',
     license='MIT',
-    url='http://github.com/ralphbean/tw2.jqplugins.cookies',
+    url='http://github.com/toscawidgets/tw2.jqplugins.cookies',
     install_requires=[
         "tw2.core>=2.0b2",
         "tw2.jquery",
